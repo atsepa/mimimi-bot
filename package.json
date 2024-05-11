@@ -1,0 +1,18 @@
+{
+  "name": "mimimi-bot",
+  "version": "1.0.0",
+  "description": "Bot to mimimi a text",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Beickon",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "chalk": "^5.3.0",
+    "discord-api-types": "^0.37.83",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
+}
